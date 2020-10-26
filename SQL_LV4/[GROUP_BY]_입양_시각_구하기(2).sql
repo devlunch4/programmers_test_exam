@@ -1,6 +1,6 @@
 --코딩테스트 연습>GROUP BY>입양 시각 구하기(2)
 
--- MySQL 코드를 입력하세요1
+-- MySQL 코드를 입력하세요
 -- set을 활용하여 리스트를 생성.
 SET @HOUR_LIST = -1; 
 SELECT 
