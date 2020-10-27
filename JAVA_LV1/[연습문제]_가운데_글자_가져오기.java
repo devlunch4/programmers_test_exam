@@ -1,8 +1,7 @@
 //코딩테스트 연습>연습문제>가운데 글자 가져오기
 
-////////////////////////////////
+//1/////
 class Solution {
-
 	public String solution(String s) {
 		String answer = "";
 
@@ -18,6 +17,13 @@ class Solution {
 		return answer;
 	}
 }
-////////////////////////////////
+/////
 
-
+// 2/////
+class Solution {
+	public String solution(String s) {
+		String answer = "";
+		return answer = s.substring((s.length() - 1) / 2, (s.length() / 2) + 1);
+	}
+}
+/////
