@@ -9,3 +9,6 @@ ORDER BY animal_id desc;
 SELECT name, datetime
 FROM animal_ins
 ORDER BY animal_id desc;
+
+https://gist.github.com/devlunch4/715a4a2d7d04a7c5b46489b47397cf06
+https://programmers.co.kr/learn/courses/30/lessons/59035
