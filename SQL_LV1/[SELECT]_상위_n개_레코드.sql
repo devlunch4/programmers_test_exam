@@ -13,3 +13,6 @@ FROM (SELECT *
       ORDER BY datetime
      )
 WHERE ROWNUM = 1;
+
+https://programmers.co.kr/learn/courses/30/lessons/59403
+https://gist.github.com/devlunch4/e3908981afe327df363d80a9be5098f0
