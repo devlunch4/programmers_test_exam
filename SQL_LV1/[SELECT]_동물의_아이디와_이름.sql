@@ -9,3 +9,6 @@ ORDER BY animal_id;
 SELECT animal_id, name 
 FROM animal_ins 
 ORDER BY animal_id;
+
+https://programmers.co.kr/learn/courses/30/lessons/59403
+https://gist.github.com/devlunch4/80cd94fe9d81e8aa80ce0ea62502cb07
