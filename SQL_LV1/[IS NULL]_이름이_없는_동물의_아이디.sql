@@ -13,3 +13,4 @@ WHERE name is NULL
 ORDER BY animal_id ASC;
 
 https://gist.github.com/devlunch4/53d9f94dbe35a35a399918891f23cb93
+https://programmers.co.kr/learn/courses/30/lessons/59039
