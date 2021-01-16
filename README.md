@@ -1,9 +1,9 @@
 # programmers_test_exam
 programmers website learn/challenges. my answer.
 
-### JAVA
+## JAVA
 java_lv1
  
-### SQL
+## SQL
 sql_lv1~4
  
